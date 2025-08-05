@@ -19,26 +19,6 @@ A modern, interactive website built with React and TypeScript to showcase the Ra
 - **Framer Motion**: Smooth animations and transitions
 - **Lucide React**: Beautiful, customizable icons
 
-## 📁 Project Structure
-
-```
-raytracer-showcase/
-├── public/
-│   └── images/          # Rendered scenes from RayTracer
-├── src/
-│   ├── components/      # React components
-│   │   ├── Header.tsx
-│   │   ├── Hero.tsx
-│   │   ├── Features.tsx
-│   │   ├── Gallery.tsx
-│   │   ├── CodeShowcase.tsx
-│   │   └── Footer.tsx
-│   ├── App.tsx
-│   ├── index.tsx
-│   └── index.css
-└── README.md
-```
-
 ## 🎨 Components
 
 ### Header
@@ -154,13 +134,6 @@ The website includes 17 rendered scenes from the RayTracer project:
 - Hover effects
 - Scroll-triggered animations
 
-## 📱 Responsive Design
-
-The website is fully responsive and optimized for:
-- Desktop (1200px+)
-- Tablet (768px - 1199px)
-- Mobile (320px - 767px)
-
 ## 🔧 Customization
 
 ### Adding New Images
@@ -178,14 +151,9 @@ The website is fully responsive and optimized for:
 - Custom CSS in `index.css` and `App.css`
 - Component-specific styles inline
 
-## 📄 License
-
-This project is part of the CSE167 Computer Graphics Course at UCSD.
-
 ## 👥 Authors
 
-- **Aung Myat** - apmyat@ucsd.edu
-- **Dario Tzeng** - CSE167 Course
+- **Aung Myat** - apmyat02@gmail.com
 
 ## 🙏 Acknowledgments
 
