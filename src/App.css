@@ -1,0 +1,9 @@
+/* App-specific styles */
+.App {
+  min-height: 100vh;
+}
+
+/* Ensure proper spacing for fixed header */
+section {
+  scroll-margin-top: 4rem;
+}
