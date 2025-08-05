@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3D-Ray-Tracer/static/css/main.e2f52520.css",
+    "main.js": "/3D-Ray-Tracer/static/js/main.d27b85c2.js",
+    "static/js/453.235ae945.chunk.js": "/3D-Ray-Tracer/static/js/453.235ae945.chunk.js",
+    "index.html": "/3D-Ray-Tracer/index.html",
+    "main.e2f52520.css.map": "/3D-Ray-Tracer/static/css/main.e2f52520.css.map",
+    "main.d27b85c2.js.map": "/3D-Ray-Tracer/static/js/main.d27b85c2.js.map",
+    "453.235ae945.chunk.js.map": "/3D-Ray-Tracer/static/js/453.235ae945.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f52520.css",
+    "static/js/main.d27b85c2.js"
+  ]
+}
