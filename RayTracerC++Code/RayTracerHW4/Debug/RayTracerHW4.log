@@ -1,0 +1,50 @@
+﻿  Object.cpp
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Object.cpp(5,79): warning C4244: 'argument': conversion from 'const _Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Object.cpp(5,51): warning C4244: 'argument': conversion from 'const _Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Object.cpp(5,23): warning C4244: 'argument': conversion from 'const _Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Object.cpp(13,35): warning C4244: 'argument': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Object.cpp(13,26): warning C4244: 'argument': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Object.cpp(13,17): warning C4244: 'argument': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Transform.h(21,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\variables.h(20,2): warning C4091: 'extern ': ignored on left of 'Camera' when no variable is declared
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\main.cpp(54,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\main.cpp(55,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  readfile.cpp
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Transform.h(21,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\variables.h(20,2): warning C4091: 'extern ': ignored on left of 'Camera' when no variable is declared
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(101,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(124,99): warning C4316: 'Sphere': object allocated on the heap may not be aligned 16
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(139,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(151,69): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(151,90): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(151,111): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(151,114): warning C4316: 'Triangle': object allocated on the heap may not be aligned 16
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(86,21): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  LINK : C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\Debug\RayTracerHW4.exe not found or not built by the last incremental link; performing full link
+  RayTracerHW4.vcxproj -> C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\Debug\RayTracerHW4.exe

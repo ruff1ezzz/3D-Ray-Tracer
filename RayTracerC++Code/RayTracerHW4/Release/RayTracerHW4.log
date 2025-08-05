@@ -1,0 +1,26 @@
+﻿cl : command line warning D9025: overriding '/Os' with '/Ot'
+cl : command line warning D9002: ignoring unknown option '-Of'
+cl : command line warning D9002: ignoring unknown option '-Oa'
+  main.cpp
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Transform.h(21,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\variables.h(20,2): warning C4091: 'extern ': ignored on left of 'Camera' when no variable is declared
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\main.cpp(50,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\main.cpp(59,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\main.cpp(60,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  readfile.cpp
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\Transform.h(21,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\variables.h(20,2): warning C4091: 'extern ': ignored on left of 'Camera' when no variable is declared
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(101,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(124,99): warning C4316: 'Sphere': object allocated on the heap may not be aligned 16
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(139,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(151,69): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(151,90): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(151,111): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(151,114): warning C4316: 'Triangle': object allocated on the heap may not be aligned 16
+C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\RayTracerHW4\readfile.cpp(86,21): warning C4101: 'i': unreferenced local variable
+  Generating code
+  126 of 592 functions (21.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    77 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RayTracerHW4.vcxproj -> C:\Users\Dario\Documents\UCSD\CSE167\RayTracerRepo\RayTracer\Release\RayTracerHW4.exe
